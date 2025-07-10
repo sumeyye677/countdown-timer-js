@@ -45,8 +45,11 @@ countdown-timer-js/
 ├── script.js           # JavaScript mantığı
 ├── README.md           # Proje dokümantasyonu
 └── screenshot.png      # Ekran görüntüsü
+
+
 🎨 Ekran Görüntüsü
 <img width="1918" height="913" alt="screenshot" src="https://github.com/user-attachments/assets/7d15057f-0083-4dfe-a92d-be9b991fd95c" />
+
 
 💡 Geliştirme Notları
 Bu proje, JavaScript Bootcamp Day 3 kapsamında DOM manipülasyonu ve olay yönetimi konularını pekiştirmek amacıyla geliştirilmiştir.
@@ -65,4 +68,3 @@ Değişikliklerinizi commit edin (git commit -am 'Yeni özellik eklendi')
 Branch'inizi push edin (git push origin feature/yeni-ozellik)
 Pull Request oluşturun
 
-<img width="1918" height="913" alt="screenshot" src="https://github.com/user-attachments/assets/7d15057f-0083-4dfe-a92d-be9b991fd95c" />
