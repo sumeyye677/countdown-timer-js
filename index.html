@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geri Sayım Aracı</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="timer-container">
+        <h1>⏰ GERI SAYIM ARACI</h1>
+        
+        <div class="input-section">
+            <label for="timeInput">Geri sayım süresini belirleyin (saniye):</label>
+            <input type="number" id="timeInput" min="1" value="10">
+        </div>
+        
+        <div class="display-section">
+            <p id="timerDisplay">10</p>
+        </div>
+        
+        <div class="button-section">
+            <button id="startBtn">Başlat</button>
+            <button id="resetBtn">Sıfırla</button>
+        </div>
+        
+        <div id="message" class="message">Süre doldu!</div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
