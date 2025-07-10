@@ -1,7 +1,8 @@
-🕐 Geri Sayım Aracı
-JavaScript DOM manipülasyonu ve zamanlayıcı işlemleri kullanarak geliştirilmiş modern bir geri sayım uygulaması.
-🚀 Özellikler
+# ⏰ Geri Sayım Aracı
 
+Bu proje, kullanıcı tarafından belirlenen süre kadar saniye bazında geriye sayım yapan etkileşimli bir web uygulamasıdır. HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
+
+🚀 Özellikler
 Özelleştirilebilir süre: Kullanıcı istediği süreyi (saniye cinsinden) belirleyebilir
 Başlat/Durdur kontrolü: Geri sayımı başlatma ve durdurma
 Sıfırlama: Geri sayımı sıfırlayıp yeniden başlatma
@@ -44,7 +45,7 @@ countdown-timer-js/
 ├── style.css           # CSS stilleri
 ├── script.js           # JavaScript mantığı
 ├── README.md           # Proje dokümantasyonu
-└── screenshot.png      # Ekran görüntüsü
+
 
 
 🎨 Ekran Görüntüsü
